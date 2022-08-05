@@ -1,3 +1,6 @@
+//https://codeforces.com/problemset/problem/1709/B
+// prefix/suffix technique
+
 #include<bits/stdc++.h>
 using namespace std;
 #define ll int64_t
