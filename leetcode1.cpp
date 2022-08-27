@@ -1,6 +1,6 @@
 //https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 
-// another solution exits kadanes algorithm with binarysearch (**) time paini pore korte hobe
+// another solution exits kore kadanes algorithm with binarysearch (**) time paini pore korte hobe
 class Solution {
 public:
     int maxSumSubmatrix(vector<vector<int>>& matrix, int k) {
